@@ -1,0 +1,22 @@
+first layer
+
+http://mid.ru/bdomp/sitemap.nsf/kartaflat/03.09
+http://mid.ru/bdomp/sitemap.nsf/kartaflat/03.02.03  - первые два
+
+layer 2
+
+http://mid.ru/bdomp/sitemap.nsf/kartaflat/03.02.03.01
+http://mid.ru/bdomp/sitemap.nsf/kartaflat/03.02.03.02
+
+final layer
+
+http://mid.ru/ns_publ.nsf/rdipl - публикации
+http://mid.ru/ns_publ.nsf/opr - опровержения 
+http://mid.ru/bdomp/brp_4.nsf/spsvy!OpenView&Start=1.87 - заявления, выступления и статьи
+http://mid.ru/bdomp/brp_4.nsf/spsvyz - заяаления, выступления
+http://mid.ru/bdomp/brp_4.nsf/spsza  - офиц заявления
+http://mid.ru/bdomp/brp_4.nsf/briefviewmn - брифинги
+http://mid.ru/bdomp/brp_4.nsf/pressotofpr - ответы на вопросы сми
+
+
+После 2011 года 
