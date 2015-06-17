@@ -7,4 +7,4 @@
 - [Заявления, выступления, статьи и интервью заместителей Министра иностранных дел Российской Федерации](http://mid.ru/bdomp/brp_4.nsf/spsvyz) -  zayavleniya_vistupleniya.csv
 - [Офиц. заявления](http://mid.ru/bdomp/brp_4.nsf/spsza)  - officialnye_zayavleniya.csv
 - [Брифинги](http://mid.ru/bdomp/brp_4.nsf/briefviewmn) - brifings_all.csv
- [Ответы на запросы сми](http://mid.ru/bdomp/brp_4.nsf/pressotofpr) -otvietySMI_all.csv
+- [Ответы на запросы сми](http://mid.ru/bdomp/brp_4.nsf/pressotofpr) -otvietySMI_all.csv
